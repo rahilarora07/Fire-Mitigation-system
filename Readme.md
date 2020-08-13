@@ -1,7 +1,6 @@
 # Fire-Mitigation-system
 
-SAFETY FIRST
-ABSTRACT:
+## ABSTRACT:
 
 We introduce our product named “Safety first” which is a fire based emergency app along with the hardware which is 
 based on the technique of image processing through web cam.
@@ -11,21 +10,24 @@ in a particular area and the app which on installation the user will receive :
 1. An emergency call or SOS to the user along with the intensity of fire 
 2. Number of people stuck in a particular area 3. And guide map to the nearest safety zone
 
-ADVANTAGES:
+## ADVANTAGES:
 
 It will give information to the firemen which will eventually help them to plan out the recue operation more accurately 
 and also the victims and near by users for prevention and take necessary measures.
 
-Future plans: -
+## Future plans: -
 
 After this campaign, on acceptance of idea and approved by the concerned authorities,
 this model could reformed as the startup product, mainly for coorporate office, once the product is launchd in the market, 
 depending upon its success rate, this technology would be installed at personal residential level
 
 ************************************************************************************************************************************
-
+## Steps
 1) File - person counter machine and fire detctor.py -> Python file to run the program
-2) File - app_look.PNG -> Image file to have a overlook of the APP !!
+
+## Screenshots pf the application with inbuilt SOS technology
+
+![]()
 
 *************************************************************************************************************************************
 
