@@ -27,7 +27,7 @@ depending upon its success rate, this technology would be installed at personal 
 
 ## Screenshots pf the application with inbuilt SOS technology
 
-<img src="https://github.com/rahilarora07/Fire-Mitigation-system-Hadware-and-software/blob/master/Hardware/Login%20page%20with%20firebase%20authentication.jpeg" width="300" height="400"/>           <img src="https://github.com/rahilarora07/Fire-Mitigation-system-Hadware-and-software/blob/master/Hardware/App-in%20page.jpeg" width="300" height="400" />
+<img src="https://github.com/rahilarora07/Fire-Mitigation-system-Hadware-and-software/blob/master/Hardware/Login%20page%20with%20firebase%20authentication.jpeg" width="300" height="400"/>                                                                                  <img src="https://github.com/rahilarora07/Fire-Mitigation-system-Hadware-and-software/blob/master/Hardware/App-in%20page.jpeg" width="300" height="400" />
 
 ## Firebase Overlook
 ![](https://github.com/rahilarora07/Fire-Mitigation-system-Hadware-and-software/blob/master/Hardware/Firebase%20image.JPG)
