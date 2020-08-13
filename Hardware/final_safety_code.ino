@@ -13,9 +13,9 @@ char post_rqst[256];char *p;char *content_length_here;char *json_start;int compi
 
 #define DHTTYPE DHT11  
 
-#define FIREBASE_HOST "smart-shelf-2da91.firebaseio.com"
-#define FIREBASE_AUTH "NYwwuTifOlIEJvu5v8VqrE6FvKq6Z6hQF2TN6S4Q"
-#define WIFINAME "OnePlus5T" //Your SSID
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFINAME "" //Your SSID
 #define WIFIPASS "" // Your Wifi Pass// DHT 11
 
 #define dhtp 0
